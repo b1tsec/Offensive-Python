@@ -3,7 +3,7 @@
 import requests
 import sys
 
-url = "http://178.128.40.63:30602/"
+url = "http://url"
 
 def bruteforce(passw):
 	postdata = {"password" : passw}
